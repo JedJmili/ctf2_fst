@@ -23,4 +23,4 @@ for char in user_input:
 
 print("Correct flag!")
 
-print("flag is : EPFL{" +user_input + "}")
+print("flag is : Securinets{" +user_input + "}")
